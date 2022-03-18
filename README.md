@@ -50,7 +50,7 @@
 </h2>
 
 ```console
-git clone https://github.com/rozari0/NezukoBot
+git clone https://github.com/divyanshmusic/NezukoBot
 cd NezukoBot
 pip3 install -U -r requirements.txt
 cp sample_config.env config.env
